@@ -1,0 +1,156 @@
+@media screen{
+    /*      .hero{
+            background: url(assets/img/banner-auditoria-interna-sindegra.png) no-repeat center / cover;     
+    }*/
+    .hero-inicio{
+        background: url(assets/img/banner-auditoria-interna-sindegra.jpg) no-repeat center / cover;
+    }
+    
+    .subpage-hero1 {
+        height: 95%;
+    }
+    
+    .subpage-hero1.overlay:before {
+        background-color: rgba(38,39,45,0.2);
+    /*    background-color: rgba(151, 154, 154, 0.4);*/
+    }
+    
+    .subpage-hero1 .hero-content,
+    .subpage-hero1 .hero-content h1,
+    .subpage-hero1 a  {
+        color: #fff;
+    }
+    
+    .subpage-hero1 a:hover {
+        color: #6fc754;
+    }
+    
+            /* Site-logo */
+            .site-title {
+            font-size: 18px;
+            line-height: 26px;
+            color: #FFFFFF;
+        }
+        
+        .site-title:hover {
+            color: #26272d;   
+        }
+        
+        .site-title span {
+            font-weight: 700;
+        }
+        
+        .site-title a:hover {
+            color: #fff;
+        }
+    
+        .H1
+    {
+        font-family : Billion Dreams;
+        font-size : 100px;
+        color : #FFFFFF;
+    /*    text-shadow : 7pt 7pt 5pt rgba(47, 47, 47, 0.75);*/
+        text-shadow: 0 0 0.2em rgba(41, 128, 185, 0.75), 0 0 0.2em rgba(47, 47, 47, 0.75),
+            0 0 0.2em rgba(41, 128, 185, 0.75);
+    }
+    
+    .hero-text{
+            text-align: right;
+        }
+    
+    h2
+    {
+        font-family : Montserrat Medium;
+        font-size : 72px;
+        text-align: center;
+        letter-spacing : 1.44px;
+        color : #254273;
+        color : rgb(37, 66, 115);
+    }
+    
+    .H2
+    {
+        font-family : Montserrat Medium;
+        font-size : 72px;
+        text-align: center;
+        letter-spacing : 1.44px;
+        color : #254273;
+        color : rgb(37, 66, 115);
+    }
+    
+    .H3
+    {
+        font-family : Montserrat;
+        font-size : 20px;
+        line-height : 60px;
+        letter-spacing : 0.96px;
+        color : #2F5392;
+        color : rgb(47, 83, 146);
+    }
+    
+    .textodecajacursiva
+    {
+        font-family : Montserrat;
+        font-style : italic;
+        font-weight: 600;
+        font-size : 21pt;
+        line-height : 30pt;
+        letter-spacing : 0.21pt;
+        color : #303030;
+        color : rgb(48, 48, 48);
+    }
+    
+    .textodecaja
+    {
+        font-family : Montserrat;
+        font-size : 21pt;
+        line-height : 30pt;
+        letter-spacing : 0.21pt;
+        color : #303030;
+        color : rgb(48, 48, 48);
+    }
+    
+    .contenido{
+        text-align: justify;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    
+    .mision1{
+        background-color: beige;
+    }
+    .iconos1{
+        position: relative;
+        height: 45%;
+        width: 45%;
+    }
+    
+    .section-features1 h2 {
+        padding-bottom: 40px;
+        font-size: 30px;
+    }
+    .section-features1 img {
+        position: absolute;
+        margin-top: 60px;
+        right: 15px;
+        height: 300px;
+    }
+    .boton1{
+        text-align: right;
+        margin-top: 20px;
+    }
+    
+    /* ------------ */
+    /* --HOVER BOB- */
+    /* ------------ */
+    .iconos1:hover{
+        text-decoration: none;
+        color: #000;
+    }
+    
+        }
+
+
+
+
+        

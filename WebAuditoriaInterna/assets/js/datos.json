@@ -1,0 +1,13 @@
+
+    {
+      "@context": "https://auditoriainterna.merida.gob.ve/",
+      "@type": "informtative",
+      "name": "Unidad de Auditoría Interna",
+      "author": {
+        "@type": "Institucional",
+        "name": "D.E.P.P. Teleinformática"
+      },
+      "datePublished": "2022-08-20",
+      "description": "Unidad de seguimiento y control a los procesos administrativos hacia Entes y Organos adscritos a la Gobernación del Estado Bolivariano de Mérida",
+      "prepTime": "PT20A"
+    }
